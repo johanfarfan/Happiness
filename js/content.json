@@ -1,0 +1,25 @@
+{
+    "content": [
+        {
+            "id" : "banner",
+            "content" : "This website has been created just to compare and share my opinions about how the different variables in the course of life affects the human being happiness. It's just my opinion and analysis against some other opinions, studies, and some other related facts. It is not to claim any definitive answer of how to be happy, neither to make a list of happiness factors but just to try to show some of my personal research about this topic"
+        },
+        {
+            "id" : "identity-header",
+            "content" : "A concept that many would not understand, at least until they get educated about it is the relationship between happiness and Identity. Even if you're one of the ones that get an idea of how it is, then, knowing how you are equals being happy?"
+        },
+        {
+            "id" : "religion-header",
+            "content" : "Religion have been previously studied from different angles by the scientific community regarding the effects that it has in our behavior. Although lot of questions have been answered, it isn't an easy study and new questions and interpretations always come out."
+        },
+        {
+            "id" : "wealth-header",
+            "content" : "There have been many studies and psychologist, supporting one side of this reality over the other one in happiness terms. It's not simple and several conditions and factors affects the 'Good Life' of the rich and the poor."
+        },
+        {
+            "id" : "social-interactions-header",
+            "content" : "After This may not surprise many, but how much does social relationships affects our happiness?"
+        }
+    ]
+    
+}
